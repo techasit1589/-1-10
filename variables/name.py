@@ -6,3 +6,6 @@ myvar = "peet"
 MYVAR = "peet"
 myvar2 = "peet"
 # ไม่สามารถประกาศได้
+# 2 myvar= "peet"
+# my-var= "peet"
+# my var= "peet"
